@@ -31,6 +31,10 @@ basic_info:
     phone: 666.555.444 #optional
     website: soyyo.com.ar #optional
 
+        # ******** IMPORTANT *******
+    # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: KevinGaBo
+
 # Your previous education
 education:
     - degree:
